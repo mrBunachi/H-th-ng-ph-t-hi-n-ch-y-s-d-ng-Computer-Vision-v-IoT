@@ -1,0 +1,6 @@
+.venv/
+*.rar
+*.docx
+*.pptx
+__pycache__/
+.ipynb_checkpoints/
